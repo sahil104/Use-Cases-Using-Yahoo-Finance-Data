@@ -7,4 +7,4 @@ Files:
 3. **Stock_Ticker_Data_Pull-_Looping_v1-Copy1.ipynb** - A looping tool to pull data on multiple stock tickers simulateously.
 4. **Strategy Backtesting (WIP)** - Test strategies on Hourly Nifty data to find out expected profit/loss & variability around it for a long period and continous experimentation.
 5. **Alpha Beta (WIP)** - Test the excess returns of stock/basket of stocks against benchmark (index). Also checks variability in the stock vis-a-vis other benchmarks.
-
+6. **MA Heat Map** - Generates Moving Average based heatmap for 100 F&O stocks traded in India. 
